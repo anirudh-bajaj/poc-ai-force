@@ -1,0 +1,18 @@
+streamlit
+pandas
+numpy
+scikit-learn
+
+# LangChain + OpenAI
+langchain
+langchain-openai
+openai>=1.0.0
+tiktoken
+
+# PDF generation
+reportlab
+python-dotenv
+structlog
+rapidfuzz
+langchain-google-genai
+google-generativeai

@@ -1,0 +1,13 @@
+prefix=C:/GenAI_Projects/DocCompare/doccompare/Library
+exec_prefix=C:/GenAI_Projects/DocCompare/doccompare/Library
+libdir=C:/GenAI_Projects/DocCompare/doccompare/Library/lib
+sharedlibdir=C:/GenAI_Projects/DocCompare/doccompare/Library/lib
+includedir=C:/GenAI_Projects/DocCompare/doccompare/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

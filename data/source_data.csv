@@ -1,0 +1,7 @@
+Entity,Acc,Debtor Bank Name,Creditor Bank,Payment value,Payment currency,Update,Recommentaion
+DEUTSCHE BANK AG,17654253,Deustche Bank,Commerce,1000,EUR,OK,
+DEUTSCHE BANK AG,17098765,Deustche Bank,Commerce,500,EUR,CHECK,96% Match with 2nd row in Europe excel data
+HENKEL AG & CO KGAA,54367890,Sparkasse,Volksbank,25000,EUR,,
+HAMS ALHAYAT TRADE EST.,19876789,Volksbank,Sparkasse,85000,EUR,,
+LUFTHANSA TECHNIK AKTIENGESELLSCHAFT,15427653,Deustche Bank,Volksbank,90000,EUR,,
+WURHT ELECTRONIK EISOS GMBH & CO KG,16875432,Deustche Bank,Sparkasse,35000,EUR,,
